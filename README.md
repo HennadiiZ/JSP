@@ -1,6 +1,4 @@
-# JSP
-
-JetSoftPro
+# JetSoftPro
 
 Skills:
 
